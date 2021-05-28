@@ -1,0 +1,25 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "some name 1",
+      "location": "some location 1",
+      "country": "some country 1",
+      "imageUrl": "/images/image_1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "some name 2",
+      "location": "some location 2",
+      "country": "some country 2",
+      "imageUrl": "/images/image_1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "some name 3",
+      "location": "some location 3",
+      "country": "some country 3",
+      "imageUrl": "/images/image_1.jpg"
+    }
+  ]
+}
